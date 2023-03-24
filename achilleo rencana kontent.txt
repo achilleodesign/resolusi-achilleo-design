@@ -5,6 +5,7 @@ RENCANA KONTEN ACHILLEO
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
 - Fundamental data structure
 - PHP Frameworks
   ^ Laravel
