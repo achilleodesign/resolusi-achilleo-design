@@ -3,7 +3,9 @@ RENCANA KONTEN ACHILLEO
 - Javascript
   * ES6
   * Framework Javascript
-- Fundamental data structure
+    ^ Angular
+    ^ React
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
