@@ -1,0 +1,5 @@
+Halo salam kenal nama saya Alfredo dari Surabaya
+
+ini resolusi saya:
+- Membuat website menggunakan framework javascript
+- Bekerja di perusahaan startup digital (bidang front end developer) 
